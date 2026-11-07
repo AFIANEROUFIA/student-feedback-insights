@@ -1,0 +1,33 @@
+{
+  "csv": {
+    "fichier": "combined_data_6.5k_anonymise.csv",
+    "lignes_brutes": 6500,
+    "lignes_apres_nettoyage": 6490,
+    "remplacements_anonymisation": 2122,
+    "langues": {
+      "en": 6336,
+      "fr": 35,
+      "de": 17,
+      "af": 9,
+      "ro": 9,
+      "no": 8,
+      "tl": 7,
+      "cy": 7,
+      "so": 7,
+      "it": 7
+    }
+  },
+  "json": [
+    {
+      "fichier": "Train_validation_Merged_ASQE_N4000_anonymise.json",
+      "avis": 4000,
+      "remplacements_anonymisation": 2347
+    },
+    {
+      "fichier": "DEV_TEST_Merged_ASQE_N2500_anonymise.json",
+      "avis": 2500,
+      "remplacements_anonymisation": 1582
+    }
+  ],
+  "note": "Remplacements = e-mails, URLs, pseudos, téléphones, noms propres (heuristique regex)."
+}

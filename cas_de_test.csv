@@ -1,0 +1,112 @@
+﻿N°;Catégorie;Phrase;Attendu;Obtenu;Résultat;Modèle ML;Lexique;VADER;Thèmes;Langue;Points de vigilance
+1;Positif EN;This course is excellent and very clear.;Positif;Positif;OK;Positif;Positif;Positif;Cours / contenu;en;
+2;Positif EN;The teacher is amazing and very helpful.;Positif;Positif;OK;Positif;Positif;Positif;Enseignant / attitude;en;
+3;Positif EN;Great professor, I loved every lecture.;Positif;Positif;OK;Positif;Positif;Positif;Enseignant / attitude, Cours / contenu;en;
+4;Positif EN;Well organized course with interesting content.;Positif;Positif;OK;Positif;Positif;Positif;Cours / contenu;en;
+5;Positif EN;Best class I have taken, highly recommend it.;Positif;Positif;OK;Positif;Positif;Positif;Cours / contenu;en;
+6;Positif EN;The lectures are engaging and the slides are clear.;Positif;Positif;OK;Positif;Positif;Positif;Ressources pédagogiques;en;Confiance faible du modèle
+7;Positif EN;She is kind, patient and always available.;Positif;Positif;OK;Positif;Positif;Positif;Autre / général;en;Confiance faible du modèle
+8;Positif EN;Fantastic teacher, very supportive and friendly.;Positif;Positif;OK;Positif;Positif;Positif;Enseignant / attitude;en;
+9;Positif EN;The course was useful and easy to understand.;Positif;Positif;OK;Positif;Positif;Positif;Cours / contenu, Difficulté;en;
+10;Positif EN;Brilliant instructor, I learned a lot.;Positif;Positif;OK;Positif;Positif;Positif;Autre / général;en;
+11;Positif FR;Le cours est excellent et très clair.;Positif;Positif;OK;Positif;Positif;Positif;Cours / contenu;fr;Texte non anglais
+12;Positif FR;Le professeur est génial et très pédagogique.;Positif;Positif;OK;Positif;Positif;Neutre;Enseignant / attitude;fr;"Confiance faible du modèle; Texte non anglais"
+13;Positif FR;Super cours, très intéressant et bien organisé.;Positif;Positif;OK;Positif;Positif;Positif;Cours / contenu;fr;Texte non anglais
+14;Positif FR;Une enseignante passionnante, je recommande vivement.;Positif;Positif;OK;Positif;Positif;Neutre;Enseignant / attitude;fr;"Confiance faible du modèle; Texte non anglais"
+15;Positif FR;Cours utile et agréable, merci beaucoup.;Positif;Positif;OK;Positif;Positif;Neutre;Cours / contenu;fr;"Confiance faible du modèle; Texte non anglais"
+16;Positif FR;Le prof est disponible et très efficace.;Positif;Positif;OK;Positif;Positif;Neutre;Enseignant / attitude;fr;"Confiance faible du modèle; Texte non anglais"
+17;Positif FR;Contenu clair, supports de qualité, bravo.;Positif;Positif;OK;Positif;Positif;Positif;Cours / contenu, Ressources pédagogiques;fr;"Confiance faible du modèle; Texte non anglais"
+18;Positif FR;Très bonne ambiance, enseignant motivant.;Positif;Positif;OK;Positif;Positif;Neutre;Enseignant / attitude;fr;"Confiance faible du modèle; Texte non anglais"
+19;Positif FR;Un cours parfait, rien à redire.;Positif;Positif;OK;Négatif;Positif;Neutre;Cours / contenu;fr;"Confiance faible du modèle; Texte non anglais"
+20;Positif FR;Professeur rigoureux et compétent.;Positif;Positif;OK;Positif;Positif;Neutre;Enseignant / attitude;fr;"Confiance faible du modèle; Texte non anglais"
+21;Négatif EN;This course is terrible and very confusing.;Négatif;Négatif;OK;Négatif;Négatif;Négatif;Cours / contenu;en;
+22;Négatif EN;The teacher is rude and unhelpful.;Négatif;Négatif;OK;Négatif;Négatif;Négatif;Enseignant / attitude;en;
+23;Négatif EN;Worst class ever, a complete waste of time.;Négatif;Négatif;OK;Négatif;Négatif;Négatif;Cours / contenu;en;
+24;Négatif EN;The lectures are boring and disorganized.;Négatif;Négatif;OK;Négatif;Négatif;Négatif;Autre / général;en;
+25;Négatif EN;He never answers emails and is always late.;Négatif;Négatif;OK;Négatif;Négatif;Neutre;Organisation;en;Confiance faible du modèle
+26;Négatif EN;The exams are unfair and the grading is awful.;Négatif;Négatif;OK;Négatif;Négatif;Négatif;Examens / évaluation;en;
+27;Négatif EN;Useless course, I learned nothing.;Négatif;Négatif;OK;Négatif;Négatif;Négatif;Cours / contenu;en;
+28;Négatif EN;The professor is unprepared and the slides are unclear.;Négatif;Négatif;OK;Négatif;Négatif;Négatif;Enseignant / attitude, Ressources pédagogiques;en;
+29;Négatif EN;Very stressful class with a chaotic schedule.;Négatif;Négatif;OK;Négatif;Négatif;Négatif;Cours / contenu, Organisation;en;Confiance faible du modèle
+30;Négatif EN;I hate this course, it is a disaster.;Négatif;Négatif;OK;Négatif;Négatif;Négatif;Cours / contenu;en;Confiance faible du modèle
+31;Négatif FR;Le cours est nul et incompréhensible.;Négatif;Négatif;OK;Positif;Négatif;Neutre;Cours / contenu;fr;"Confiance faible du modèle; Texte non anglais"
+32;Négatif FR;Le professeur est impoli et absent.;Négatif;Négatif;OK;Positif;Négatif;Neutre;Enseignant / attitude;fr;"Confiance faible du modèle; Texte non anglais"
+33;Négatif FR;Cours très ennuyeux et mal organisé.;Négatif;Négatif;OK;Positif;Négatif;Neutre;Cours / contenu;fr;"Confiance faible du modèle; Texte non anglais"
+34;Négatif FR;Les examens sont injustes et trop difficiles.;Négatif;Négatif;OK;Positif;Négatif;Neutre;Examens / évaluation;fr;"Confiance faible du modèle; Texte non anglais"
+35;Négatif FR;Une catastrophe, je ne recommande pas.;Négatif;Négatif;OK;Positif;Négatif;Négatif;Autre / général;fr;"Risque de polarité inversée; Confiance faible du modèle; Texte non anglais"
+36;Négatif FR;Enseignant désorganisé, toujours en retard.;Négatif;Négatif;OK;Positif;Négatif;Négatif;Enseignant / attitude, Organisation;fr;"Confiance faible du modèle; Texte non anglais"
+37;Négatif FR;Supports confus et cours inutile.;Négatif;Négatif;OK;Positif;Négatif;Positif;Cours / contenu, Ressources pédagogiques;fr;"Désaccord avec VADER; Confiance faible du modèle; Texte non anglais"
+38;Négatif FR;Ambiance stressante, administration chaotique.;Négatif;Négatif;OK;Négatif;Négatif;Neutre;Organisation;fr;"Confiance faible du modèle; Texte non anglais"
+39;Négatif FR;Très décevant, aucun suivi des étudiants.;Négatif;Négatif;OK;Positif;Négatif;Neutre;Autre / général;fr;"Confiance faible du modèle; Texte non anglais"
+40;Négatif FR;Le prof est froid et incompétent.;Négatif;Négatif;OK;Positif;Négatif;Neutre;Enseignant / attitude;fr;"Confiance faible du modèle; Texte non anglais"
+41;Neutre : questions;where is the teacher;Neutre;Neutre;OK;Positif;Neutre;Neutre;Enseignant / attitude;en;Confiance faible du modèle
+42;Neutre : questions;Where is the teacher?;Neutre;Neutre;OK;Positif;Neutre;Neutre;Enseignant / attitude;en;Confiance faible du modèle
+43;Neutre : questions;What time does the class start?;Neutre;Neutre;OK;Négatif;Neutre;Neutre;Cours / contenu;en;Confiance faible du modèle
+44;Neutre : questions;Who is the professor of this module?;Neutre;Neutre;OK;Négatif;Neutre;Neutre;Enseignant / attitude;en;Confiance faible du modèle
+45;Neutre : questions;When is the exam?;Neutre;Neutre;OK;Négatif;Neutre;Neutre;Examens / évaluation;en;Confiance faible du modèle
+46;Neutre : questions;Où est le prof ?;Neutre;Neutre;OK;Positif;Neutre;Neutre;Enseignant / attitude;fr;"Confiance faible du modèle; Texte non anglais"
+47;Neutre : questions;Quel est le programme du cours ?;Neutre;Neutre;OK;Positif;Neutre;Neutre;Cours / contenu;fr;"Confiance faible du modèle; Texte non anglais"
+48;Neutre : questions;Quand commence le cours ?;Neutre;Neutre;OK;Positif;Neutre;Neutre;Cours / contenu;fr;"Confiance faible du modèle; Texte non anglais"
+49;Neutre : questions;Comment s'inscrire à ce module ?;Neutre;Neutre;OK;Négatif;Neutre;Neutre;Autre / général;fr;"Confiance faible du modèle; Texte non anglais"
+50;Neutre : questions;Combien de crédits vaut ce cours ?;Neutre;Neutre;OK;Positif;Neutre;Neutre;Cours / contenu;fr;"Confiance faible du modèle; Texte non anglais"
+51;Neutre : faits;Office hours are on Monday;Neutre;Neutre;OK;Positif;Neutre;Neutre;Charge de travail;en;Confiance faible du modèle
+52;Neutre : faits;The course is at 9am in room B12;Neutre;Neutre;OK;Négatif;Neutre;Neutre;Cours / contenu;en;
+53;Neutre : faits;The class meets on Friday.;Neutre;Neutre;OK;Positif;Neutre;Neutre;Cours / contenu;en;Confiance faible du modèle
+54;Neutre : faits;Le cours est à 10h;Neutre;Neutre;OK;Positif;Neutre;Neutre;Cours / contenu;fr;"Confiance faible du modèle; Texte non anglais"
+55;Neutre : faits;Le TD a lieu le jeudi en salle 4.;Neutre;Neutre;OK;Positif;Neutre;Neutre;Infrastructures;fr;"Confiance faible du modèle; Texte non anglais"
+56;Neutre : faits;Cours en amphi le lundi.;Neutre;Neutre;OK;Positif;Neutre;Neutre;Cours / contenu, Infrastructures;fr;"Confiance faible du modèle; Texte non anglais"
+57;Neutre : mitigé;The class is okay;Neutre;Neutre;OK;Neutre;Neutre;Positif;Cours / contenu;en;Confiance faible du modèle
+58;Neutre : mitigé;The course is fine, nothing special;Neutre;Neutre;OK;Négatif;Neutre;Négatif;Cours / contenu;en;
+59;Neutre : mitigé;Not bad, not great;Neutre;Neutre;OK;Neutre;Neutre;Positif;Autre / général;en;"Risque de polarité manquée (neutre prédit); Risque de polarité inversée; Confiance faible du modèle"
+60;Neutre : mitigé;Il est ni bon ni mauvais;Neutre;Neutre;OK;Positif;Neutre;Neutre;Autre / général;et;"Risque de polarité inversée; Confiance faible du modèle; Texte non anglais"
+61;Neutre : mitigé;Le cours est correct, sans plus;Neutre;Neutre;OK;Positif;Neutre;Neutre;Cours / contenu;fr;"Confiance faible du modèle; Texte non anglais"
+62;Neutre : mitigé;Cours moyen.;Neutre;Neutre;OK;Positif;Neutre;Neutre;Cours / contenu;fr;"Confiance faible du modèle; Texte non anglais"
+63;Neutre : mitigé;It was average.;Neutre;Neutre;OK;Positif;Neutre;Neutre;Autre / général;en;Confiance faible du modèle
+64;Neutre : mitigé;So-so class.;Neutre;Neutre;OK;Neutre;Neutre;Neutre;Cours / contenu;en;Confiance faible du modèle
+65;Neutre : mitigé;Passable.;Neutre;Neutre;OK;Positif;Neutre;Neutre;Autre / général;fr;"Confiance faible du modèle; Texte non anglais"
+66;Mixte EN;The teacher is great but the exams are too hard;Mixte;Mixte;OK;Positif;Négatif;Positif;Enseignant / attitude, Examens / évaluation, Difficulté;en;Confiance faible du modèle
+67;Mixte EN;Good content but poor organization;Mixte;Mixte;OK;Négatif;Neutre;Négatif;Cours / contenu, Organisation;en;Confiance faible du modèle
+68;Mixte EN;Great teacher, however she is always late;Mixte;Mixte;OK;Positif;Neutre;Positif;Enseignant / attitude, Organisation;en;Confiance faible du modèle
+69;Mixte EN;The professor explains well but the exams are impossible;Mixte;Mixte;OK;Positif;Neutre;Positif;Enseignant / attitude, Examens / évaluation;en;Confiance faible du modèle
+70;Mixte EN;Nice lectures but the grading is unfair and slow;Mixte;Mixte;OK;Négatif;Négatif;Négatif;Examens / évaluation;en;Confiance faible du modèle
+71;Mixte EN;The course is interesting but the workload is overwhelming;Mixte;Mixte;OK;Positif;Neutre;Positif;Cours / contenu, Difficulté, Charge de travail;en;Confiance faible du modèle
+72;Mixte EN;Friendly staff, but the schedule is chaotic;Mixte;Mixte;OK;Positif;Neutre;Négatif;Enseignant / attitude, Organisation;en;Confiance faible du modèle
+73;Mixte EN;Excellent slides, terrible exams;Mixte;Mixte;OK;Négatif;Neutre;Positif;Examens / évaluation, Ressources pédagogiques;ca;"Confiance faible du modèle; Texte non anglais"
+74;Mixte FR;Le prof est sympa mais ses cours sont ennuyeux;Mixte;Mixte;OK;Positif;Neutre;Neutre;Enseignant / attitude, Cours / contenu;fr;"Confiance faible du modèle; Texte non anglais"
+75;Mixte FR;Le cours est intéressant mais l'examen était trop long;Mixte;Mixte;OK;Positif;Neutre;Neutre;Cours / contenu, Examens / évaluation;fr;"Confiance faible du modèle; Texte non anglais"
+76;Mixte FR;Enseignant disponible mais cours désorganisé;Mixte;Mixte;OK;Positif;Neutre;Neutre;Enseignant / attitude, Cours / contenu;fr;"Confiance faible du modèle; Texte non anglais"
+77;Mixte FR;Contenu clair, mais l'ambiance est stressante;Mixte;Mixte;OK;Positif;Neutre;Neutre;Cours / contenu;fr;"Confiance faible du modèle; Texte non anglais"
+78;Mixte FR;Bon professeur mais administration chaotique;Mixte;Mixte;OK;Négatif;Neutre;Neutre;Enseignant / attitude, Organisation;fr;"Confiance faible du modèle; Texte non anglais"
+79;Mixte FR;Cours utile mais notation injuste;Mixte;Mixte;OK;Positif;Neutre;Neutre;Cours / contenu, Examens / évaluation;fr;"Confiance faible du modèle; Texte non anglais"
+80;Négations;He is not helpful at all.;Négatif;Négatif;OK;Négatif;Négatif;Négatif;Enseignant / attitude;en;Risque de polarité inversée
+81;Négations;The course is not good.;Négatif;Négatif;OK;Négatif;Négatif;Négatif;Cours / contenu;en;Risque de polarité inversée
+82;Négations;Pas clair du tout.;Négatif;Négatif;OK;Positif;Négatif;Négatif;Autre / général;fr;"Risque de polarité inversée; Confiance faible du modèle; Texte non anglais"
+83;Négations;Le prof n'est pas disponible.;Négatif;Positif;ÉCART;Positif;Négatif;Neutre;Enseignant / attitude;fr;"Risque de polarité inversée; Confiance faible du modèle; Texte non anglais"
+84;Négations;The teacher is not friendly.;Négatif;Négatif;OK;Positif;Négatif;Négatif;Enseignant / attitude;en;"Risque de polarité inversée; Confiance faible du modèle"
+85;Négations (→ positif);The course is not boring.;Positif;Négatif;ÉCART;Négatif;Positif;Positif;Cours / contenu;en;"Risque de polarité inversée; Désaccord avec VADER"
+86;Négations (→ positif);Ce n'est pas mauvais du tout, très utile.;Positif;Positif;OK;Positif;Positif;Négatif;Autre / général;fr;"Risque de polarité inversée; Désaccord avec VADER; Confiance faible du modèle; Texte non anglais"
+87;Négations (→ positif);The teacher is not unclear, very helpful.;Positif;Positif;OK;Négatif;Positif;Négatif;Enseignant / attitude;en;"Risque de polarité inversée; Désaccord avec VADER; Confiance faible du modèle"
+88;Intensité;The teacher is extremely helpful and really clear.;Positif;Positif;OK;Positif;Positif;Positif;Enseignant / attitude;en;
+89;Intensité;Cours vraiment excellent, très bien expliqué.;Positif;Positif;OK;Positif;Positif;Positif;Cours / contenu;fr;Texte non anglais
+90;Intensité;The class is extremely boring and really confusing.;Négatif;Négatif;OK;Négatif;Négatif;Négatif;Cours / contenu;en;Confiance faible du modèle
+91;Intensité;Cours vraiment nul et très confus.;Négatif;Négatif;OK;Positif;Négatif;Neutre;Cours / contenu;fr;"Confiance faible du modèle; Texte non anglais"
+92;Cas limites;ok;Neutre;Neutre;OK;Neutre;Neutre;Positif;Autre / général;sk;"Confiance faible du modèle; Texte non anglais"
+93;Cas limites;Okay;Neutre;Neutre;OK;Négatif;Neutre;Positif;Autre / général;tl;"Confiance faible du modèle; Texte non anglais"
+94;Cas limites;?;Neutre;Neutre;OK;Positif;Neutre;Neutre;Autre / général;unknown;Confiance faible du modèle
+95;Cas limites;...;Neutre;Neutre;OK;Positif;Neutre;Neutre;Autre / général;unknown;Confiance faible du modèle
+96;Cas limites;N/A;Neutre;Neutre;OK;Positif;Neutre;Neutre;Autre / général;tl;"Confiance faible du modèle; Texte non anglais"
+97;Cas limites : autre langue (peu fiable);المحاضرة كانت جيدة جدا;Positif;Positif;OK;Positif;Neutre;Neutre;Autre / général;ar;"Risque de neutre confondu avec une polarité; Confiance faible du modèle; Texte non anglais"
+98;Cas limites : autre langue (peu fiable);El profesor es muy bueno y explica bien;Positif;Positif;OK;Positif;Positif;Neutre;Autre / général;es;"Confiance faible du modèle; Texte non anglais"
+99;Cas limites : autre langue (peu fiable);Der Kurs ist sehr gut;Positif;Positif;OK;Positif;Neutre;Neutre;Autre / général;de;"Risque de neutre confondu avec une polarité; Confiance faible du modèle; Texte non anglais"
+100;Cas limites : forme;EXCELLENT COURSE!!! LOVED IT!!!;Positif;Positif;OK;Positif;Positif;Positif;Cours / contenu;en;
+101;Cas limites : forme;great course 👍👍;Positif;Positif;OK;Positif;Positif;Positif;Cours / contenu;fr;Texte non anglais
+102;Cas limites : forme;Great course!!! Really helpful and clear.......;Positif;Positif;OK;Positif;Positif;Positif;Enseignant / attitude, Cours / contenu;en;
+103;Cas limites : forme;TERRIBLE TEACHER!!! WORST EVER!!!;Négatif;Négatif;OK;Négatif;Négatif;Négatif;Enseignant / attitude;en;
+104;Cas limites : forme;bad class 👎;Négatif;Neutre;ÉCART;Neutre;Négatif;Négatif;Cours / contenu;en;"Risque de polarité manquée (neutre prédit); Confiance faible du modèle"
+105;Cas limites : forme;Awful. Just awful.;Négatif;Négatif;OK;Négatif;Négatif;Négatif;Autre / général;ro;Texte non anglais
+106;Cas limites : long;The teacher is very friendly and the content is interesting, and the slides are clear. However the exams are extremely hard, the grading is unfair, and the schedule is chaotic and stressful for everyone in the class.;Mixte;Mixte;OK;Négatif;Négatif;Négatif;Enseignant / attitude, Cours / contenu, Examens / évaluation, Difficulté, Organisation, Ressources pédagogiques;en;Confiance faible du modèle
+107;Thèmes : enseignant;The teacher is friendly and always available.;Positif;Positif;OK;Positif;Positif;Positif;Enseignant / attitude;en;
+108;Thèmes : examens;The exams are unfair and too difficult.;Négatif;Négatif;OK;Négatif;Négatif;Négatif;Examens / évaluation, Difficulté;en;Confiance faible du modèle
+109;Thèmes : charge de travail;The workload is overwhelming and stressful.;Négatif;Négatif;OK;Positif;Négatif;Négatif;Difficulté, Charge de travail;en;Confiance faible du modèle
+110;Thèmes : administration;The administration is chaotic and never answers.;Négatif;Négatif;OK;Négatif;Négatif;Négatif;Organisation;en;Confiance faible du modèle
+111;Thèmes : contenu;The course content is useful and well structured.;Positif;Positif;OK;Positif;Positif;Positif;Cours / contenu;en;Confiance faible du modèle

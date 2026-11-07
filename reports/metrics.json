@@ -1,0 +1,288 @@
+{
+  "ml": {
+    "accuracy": 0.6947890818858561,
+    "macro_f1": 0.6261678178176252,
+    "precision_macro": 0.6138994770497388,
+    "recall_macro": 0.6508762925355663,
+    "per_class": {
+      "Negative": {
+        "precision": 0.6375968992248062,
+        "recall": 0.7615740740740741,
+        "f1": 0.6940928270042194,
+        "support": 432
+      },
+      "Neutral": {
+        "precision": 0.36531365313653136,
+        "recall": 0.48058252427184467,
+        "f1": 0.41509433962264153,
+        "support": 206
+      },
+      "Positive": {
+        "precision": 0.8387878787878787,
+        "recall": 0.7104722792607803,
+        "f1": 0.7693162868260145,
+        "support": 974
+      }
+    },
+    "report": {
+      "Negative": {
+        "precision": 0.6375968992248062,
+        "recall": 0.7615740740740741,
+        "f1-score": 0.6940928270042194,
+        "support": 432.0
+      },
+      "Neutral": {
+        "precision": 0.36531365313653136,
+        "recall": 0.48058252427184467,
+        "f1-score": 0.41509433962264153,
+        "support": 206.0
+      },
+      "Positive": {
+        "precision": 0.8387878787878787,
+        "recall": 0.7104722792607803,
+        "f1-score": 0.7693162868260145,
+        "support": 974.0
+      },
+      "accuracy": 0.6947890818858561,
+      "macro avg": {
+        "precision": 0.6138994770497388,
+        "recall": 0.6508762925355663,
+        "f1-score": 0.6261678178176252,
+        "support": 1612.0
+      },
+      "weighted avg": {
+        "precision": 0.7243646817311636,
+        "recall": 0.6947890818858561,
+        "f1-score": 0.703890569849023,
+        "support": 1612.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        329,
+        32,
+        71
+      ],
+      [
+        45,
+        99,
+        62
+      ],
+      [
+        142,
+        140,
+        692
+      ]
+    ],
+    "labels": [
+      "Negative",
+      "Neutral",
+      "Positive"
+    ]
+  },
+  "lexicon": {
+    "accuracy": 0.5942928039702233,
+    "macro_f1": 0.4789839217467737,
+    "precision_macro": 0.5122405636744504,
+    "recall_macro": 0.4702398092955498,
+    "per_class": {
+      "Negative": {
+        "precision": 0.6480836236933798,
+        "recall": 0.4305555555555556,
+        "f1": 0.5173852573018081,
+        "support": 432
+      },
+      "Neutral": {
+        "precision": 0.1331521739130435,
+        "recall": 0.23786407766990292,
+        "f1": 0.17073170731707318,
+        "support": 206
+      },
+      "Positive": {
+        "precision": 0.7554858934169278,
+        "recall": 0.742299794661191,
+        "f1": 0.7488348006214397,
+        "support": 974
+      }
+    },
+    "report": {
+      "Negative": {
+        "precision": 0.6480836236933798,
+        "recall": 0.4305555555555556,
+        "f1-score": 0.5173852573018081,
+        "support": 432.0
+      },
+      "Neutral": {
+        "precision": 0.1331521739130435,
+        "recall": 0.23786407766990292,
+        "f1-score": 0.17073170731707318,
+        "support": 206.0
+      },
+      "Positive": {
+        "precision": 0.7554858934169278,
+        "recall": 0.742299794661191,
+        "f1-score": 0.7488348006214397,
+        "support": 974.0
+      },
+      "accuracy": 0.5942928039702233,
+      "macro avg": {
+        "precision": 0.5122405636744504,
+        "recall": 0.4702398092955498,
+        "f1-score": 0.4789839217467737,
+        "support": 1612.0
+      },
+      "weighted avg": {
+        "precision": 0.647174152264091,
+        "recall": 0.5942928039702233,
+        "f1-score": 0.6129319222499879,
+        "support": 1612.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        186,
+        130,
+        116
+      ],
+      [
+        39,
+        49,
+        118
+      ],
+      [
+        62,
+        189,
+        723
+      ]
+    ],
+    "labels": [
+      "Negative",
+      "Neutral",
+      "Positive"
+    ]
+  },
+  "vader": {
+    "accuracy": 0.6774193548387096,
+    "macro_f1": 0.4853310472608208,
+    "precision_macro": 0.5106428760211377,
+    "recall_macro": 0.48178425654577445,
+    "per_class": {
+      "Negative": {
+        "precision": 0.7087378640776699,
+        "recall": 0.5069444444444444,
+        "f1": 0.5910931174089069,
+        "support": 432
+      },
+      "Neutral": {
+        "precision": 0.10185185185185185,
+        "recall": 0.05339805825242718,
+        "f1": 0.07006369426751592,
+        "support": 206
+      },
+      "Positive": {
+        "precision": 0.7213389121338912,
+        "recall": 0.8850102669404517,
+        "f1": 0.7948363301060396,
+        "support": 974
+      }
+    },
+    "report": {
+      "Negative": {
+        "precision": 0.7087378640776699,
+        "recall": 0.5069444444444444,
+        "f1-score": 0.5910931174089069,
+        "support": 432.0
+      },
+      "Neutral": {
+        "precision": 0.10185185185185185,
+        "recall": 0.05339805825242718,
+        "f1-score": 0.07006369426751592,
+        "support": 206.0
+      },
+      "Positive": {
+        "precision": 0.7213389121338912,
+        "recall": 0.8850102669404517,
+        "f1-score": 0.7948363301060396,
+        "support": 974.0
+      },
+      "accuracy": 0.6774193548387096,
+      "macro avg": {
+        "precision": 0.5106428760211377,
+        "recall": 0.48178425654577445,
+        "f1-score": 0.4853310472608208,
+        "support": 1612.0
+      },
+      "weighted avg": {
+        "precision": 0.6387967364649162,
+        "recall": 0.6774193548387096,
+        "f1-score": 0.6476153432152846,
+        "support": 1612.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        219,
+        45,
+        168
+      ],
+      [
+        30,
+        11,
+        165
+      ],
+      [
+        60,
+        52,
+        862
+      ]
+    ],
+    "labels": [
+      "Negative",
+      "Neutral",
+      "Positive"
+    ]
+  },
+  "cv_ml_macro_f1": {
+    "folds": [
+      0.634,
+      0.604,
+      0.611,
+      0.643,
+      0.627
+    ],
+    "mean": 0.624,
+    "std": 0.014
+  },
+  "par_langue_macro_f1_test": {
+    "en": {
+      "n": 1578,
+      "lexicon": 0.478,
+      "vader": 0.483,
+      "ml": 0.629
+    }
+  },
+  "dataset": "combined_data_6.5k_anonymise.csv",
+  "n_total": 6445,
+  "n_train": 4833,
+  "n_test": 1612,
+  "distribution_test": {
+    "Positive": 974,
+    "Negative": 432,
+    "Neutral": 206
+  },
+  "langues_test": {
+    "en": 1578,
+    "fr": 7,
+    "cy": 4,
+    "de": 4,
+    "no": 2,
+    "nl": 2,
+    "hr": 2,
+    "tl": 2,
+    "ca": 2,
+    "da": 1
+  },
+  "anonymisation_remplacements": 0,
+  "split": "75 % entraînement / 25 % test, stratifié, random_state=42",
+  "note": "Scores calculés sur le jeu de test ; le classifieur n'a pas vu ces avis. Le lexique et VADER ne sont pas entraînés. Aucun score inventé."
+}

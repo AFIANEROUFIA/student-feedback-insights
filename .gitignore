@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+data/processed/_upload*
+.pytest_cache/
+.streamlit/

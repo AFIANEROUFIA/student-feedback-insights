@@ -1,0 +1,182 @@
+[
+  {
+    "id": "r001",
+    "original_id": "r001",
+    "text": "The teacher is very helpful and explains every concept clearly.",
+    "overall_sentiment": "Pos",
+    "type": "course_eval",
+    "Quadruplets": [
+      {
+        "aspect": "Enseignant / attitude",
+        "opinion": "The teacher is very helpful and explains every concept clear",
+        "category": "Enseignant / attitude",
+        "sentiment": "Pos"
+      }
+    ]
+  },
+  {
+    "id": "r002",
+    "original_id": "r002",
+    "text": "Great course content and well organized lectures.",
+    "overall_sentiment": "Pos",
+    "type": "course_eval",
+    "Quadruplets": [
+      {
+        "aspect": "Cours / contenu",
+        "opinion": "Great course content and well organized lectures.",
+        "category": "Cours / contenu",
+        "sentiment": "Pos"
+      }
+    ]
+  },
+  {
+    "id": "r003",
+    "original_id": "r003",
+    "text": "The professor is friendly, available and really supportive.",
+    "overall_sentiment": "Pos",
+    "type": "forum",
+    "Quadruplets": [
+      {
+        "aspect": "Enseignant / attitude",
+        "opinion": "The professor is friendly, available and really supportive.",
+        "category": "Enseignant / attitude",
+        "sentiment": "Pos"
+      }
+    ]
+  },
+  {
+    "id": "r004",
+    "original_id": "r004",
+    "text": "I liked the slides and the extra resources on Moodle.",
+    "overall_sentiment": "Pos",
+    "type": "course_eval",
+    "Quadruplets": [
+      {
+        "aspect": "Ressources pédagogiques",
+        "opinion": "I liked the slides and the extra resources on Moodle.",
+        "category": "Ressources pédagogiques",
+        "sentiment": "Pos"
+      }
+    ]
+  },
+  {
+    "id": "r005",
+    "original_id": "r005",
+    "text": "Fair exams and clear grading criteria.",
+    "overall_sentiment": "Pos",
+    "type": "course_eval",
+    "Quadruplets": [
+      {
+        "aspect": "Examens / évaluation",
+        "opinion": "Fair exams and clear grading criteria.",
+        "category": "Examens / évaluation",
+        "sentiment": "Pos"
+      }
+    ]
+  },
+  {
+    "id": "r006",
+    "original_id": "r006",
+    "text": "The classroom is comfortable and the wifi works well.",
+    "overall_sentiment": "Pos",
+    "type": "survey",
+    "Quadruplets": [
+      {
+        "aspect": "Infrastructures",
+        "opinion": "The classroom is comfortable and the wifi works well.",
+        "category": "Infrastructures",
+        "sentiment": "Pos"
+      }
+    ]
+  },
+  {
+    "id": "r007",
+    "original_id": "r007",
+    "text": "Assignments are useful and the project is interesting.",
+    "overall_sentiment": "Pos",
+    "type": "course_eval",
+    "Quadruplets": [
+      {
+        "aspect": "Charge de travail",
+        "opinion": "Assignments are useful and the project is interesting.",
+        "category": "Charge de travail",
+        "sentiment": "Pos"
+      }
+    ]
+  },
+  {
+    "id": "r008",
+    "original_id": "r008",
+    "text": "Best teacher I had this semester. Very patient.",
+    "overall_sentiment": "Pos",
+    "type": "forum",
+    "Quadruplets": [
+      {
+        "aspect": "Enseignant / attitude",
+        "opinion": "Best teacher I had this semester. Very patient.",
+        "category": "Enseignant / attitude",
+        "sentiment": "Pos"
+      }
+    ]
+  },
+  {
+    "id": "r009",
+    "original_id": "r009",
+    "text": "The course is structured and easy to follow.",
+    "overall_sentiment": "Pos",
+    "type": "course_eval",
+    "Quadruplets": [
+      {
+        "aspect": "Cours / contenu",
+        "opinion": "The course is structured and easy to follow.",
+        "category": "Cours / contenu",
+        "sentiment": "Pos"
+      }
+    ]
+  },
+  {
+    "id": "r010",
+    "original_id": "r010",
+    "text": "Recommended. Clear lectures and helpful feedback.",
+    "overall_sentiment": "Pos",
+    "type": "survey",
+    "Quadruplets": [
+      {
+        "aspect": "Cours / contenu",
+        "opinion": "Recommended. Clear lectures and helpful feedback.",
+        "category": "Cours / contenu",
+        "sentiment": "Pos"
+      }
+    ]
+  },
+  {
+    "id": "r011",
+    "original_id": "r011",
+    "text": "He is not helpful at all. Very rude.",
+    "overall_sentiment": "Neg",
+    "type": "course_eval",
+    "Quadruplets": [
+      {
+        "aspect": "Enseignant / attitude",
+        "opinion": "He is not helpful at all. Very rude.",
+        "category": "Enseignant / attitude",
+        "sentiment": "Neg"
+      }
+    ]
+  },
+  {
+    "id": "r012",
+    "original_id": "r012",
+    "text": "The exams are extremely difficult and unfair.",
+    "overall_sentiment": "Neg",
+    "type": "course_eval",
+    "Quadruplets": [
+      {
+        "aspect": "Examens / évaluation",
+        "opinion": "The exams are extremely difficult and unfair.",
+        "category": "Examens / évaluation",
+        "sentiment": "Neg"
+      }
+    ]
+  }
+]
